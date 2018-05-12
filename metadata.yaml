@@ -1,0 +1,28 @@
+_repo: Opiksi-ja-huviksi--Lukemisia-Suomen-perheille_26927
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yrjö-Koskinen, Yrjö Sakari
+    aliases:
+    - Forsman, Georg Zacharias
+    - Koskinen, Yrjö Sakari
+    - Yrjo-Koskinen, Yrjo Sakari
+    birthdate: 1830
+    deathdate: 1903
+    gutenberg_agent_id: '8325'
+    url: http://www.gutenberg.org/2009/agents/8325
+    wikipedia: http://fi.wikipedia.org/wiki/Yrj%C3%B6_Sakari_Yrj%C3%B6-Koskinen
+description: ''
+gutenberg_issued: '2008-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26927'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Opiksi ja huviksi: Lukemisia Suomen perheille'
+url: http://www.gutenberg.org/ebooks/26927
